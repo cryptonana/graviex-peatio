@@ -66,7 +66,7 @@ gem 'easy_table'
 gem 'phonelib', '~> 0.3.5'
 gem 'twilio-ruby', '~> 3.11'
 gem 'unread', github: 'gravio-net/unread'
-gem 'carrierwave', '~> 0.10.0'
+gem 'carrierwave', '~> 1.3.2'
 gem 'simple_captcha', github: 'gravio-net/simple-captcha', branch: '0.2.2.1'
 gem 'rest-client', '~> 1.6.8'
 
