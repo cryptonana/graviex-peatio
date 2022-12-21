@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 4.0.12'
+gem 'rails', '~> 4.2.0'
 gem 'rails-i18n'
 
 gem 'mysql2', '~> 0.3.21'
@@ -43,7 +43,7 @@ gem 'em-websocket', '~> 0.5.1'
 
 gem 'simple_form', '~> 3.1.0'
 gem 'slim-rails'
-gem 'sass-rails'
+gem 'sass-rails', '>= 6.0.0'
 gem 'coffee-rails'
 gem 'uglifier'
 gem "jquery-rails"
